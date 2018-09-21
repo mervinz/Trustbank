@@ -1,0 +1,140 @@
+body{
+    background-color: #bce8f1;
+}
+p {
+    color: #555555 !important;
+    font-weight: 500 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #555;
+    font-weight: bold;
+}
+div#main_container {
+    padding-top: 10px !important;
+    padding-bottom: 5px !important;
+}
+@media (min-width: 768px){
+    .col-md-8 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100 !important;%;
+        flex: 0 0 100 !important;%;
+        max-width: 100% !important;
+    }
+}
+.text-justify{
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+/* forex from fixe.io conversion rates*/
+shares {
+    text-color:orange !important;
+    padding: 18px 0 12px;
+    background: #fff;
+    border-bottom: 1px solid #E8E8E8;
+}
+
+.single-forex {
+
+    border-right: 1px #E8E8E8 solid;
+    padding-right: 20px;
+    margin-right: 20px;
+
+}
+.inline-block, .download-btn, .content ol, .product_features ol, .single-forex, .lead-trigger a {
+
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+
+    margin: 0;
+    margin-right: 0px;
+    padding: 0;
+    padding-right: 0px;
+    border: 0;
+    border-right-color: currentcolor;
+    border-right-style: none;
+    border-right-width: 0px;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+
+}
+*, html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, label, fieldset, input, p, blockquote, th, td {
+
+    margin: 0;
+    padding: 0;
+
+}
+*, ::before, ::after {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+element {
+    display: block;
+}
+.loan-calculator {
+    margin-bottom: 5px;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    margin-bottom: 0px;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+*, html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, label, fieldset, input, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+*, ::before, ::after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* calculator styling*/
+.output {
+    font-weight:bold;
+}
+#payment {
+    text-decoration:underline;
+}
+#graph {
+    border:solid black 1px;
+}
+th, td {
+    vertical-align: top;
+}
+footer{
+    margin-top: 10px;
+}
+
+.red{
+    color:red;
+}
+.form-area
+{
+    background-color: #FAFAFA;
+    padding: 10px 40px 60px;
+    margin: 10px 0px 60px;
+    border: 1px solid GREY;
+}
+.par{
+    padding-top: 10px;
+    padding-left: 10px;d
+}
