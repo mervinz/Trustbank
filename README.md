@@ -4,3 +4,7 @@ imlementing 2FA using AFRCAS' TALKING SMS gateway
  
  #Requirements
  . Atleast php 7
+ 
+run from your local server
+
+php -S localhost:8000  on trminal
